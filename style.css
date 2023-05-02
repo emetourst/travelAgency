@@ -132,6 +132,10 @@ header .search-bar-container label:hover{
     z-index: 10000;
 }
 
+.login-form-container.active{
+    top: 0;
+}
+
 .login-form-container form{
     margin: 2rem;
     padding: 1.5rem 2rem;
