@@ -259,3 +259,9 @@ header .search-bar-container label:hover{
         background: #222;
     }
 }
+
+@media(max-width: 450px){
+    html{
+        font-size: 50%;
+    }
+}
